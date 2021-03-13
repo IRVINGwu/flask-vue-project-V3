@@ -27,4 +27,4 @@
 
    前端网址为： http://localhost:8999
 
-   提示：需将`vue.config.js`和`src/assets/js/globalConfig.js`文件中的`localhost`地址改为本地的`IPv4`地址。
+   提示：需将`vue.config.js`和`src/assets/plugins/http.js`文件中的`localhost`地址改为本地的`IPv4`地址。
